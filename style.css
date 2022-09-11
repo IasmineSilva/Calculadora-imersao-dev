@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+body {
+  font-family: 'Amatic SC',monospace;
+  min-height: 400px;
+  background-image: url('https://i.pinimg.com/564x/79/0e/d7/790ed78808a202afc592ff8fc209b7b9.jpg');
+  background-color: #ffffff;
+  background-size: 50vh;
+  background-position: right center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 120vh;
+  
+}
+
+.page-title {
+  color:#000000;
+  font-size: 60px;
+  margin: 5px;
+}
+
+.page-subtitle {
+  font-size: 40px;
+  color:blueviolet;
+  margin-top: 10px;
+  
+}
+
+.page-logo {
+  width: 200px;
+  background-color:#000000;
+}
+
+.notas {
+  color: blue;
+}
+
+input {
+  margin: 6px;
+  padding: 9px;
+  border-radius: 12px;
+}
+
+label {
+  color: #80ADA0;
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+
+
+button {
+  margin-top: 20px;
+  font-size: 15px;
+  padding: 20px 20px;
+  border-radius: 20px;
+  background: #ffffff;
+}
+
+button:hover {
+  background-color: #C5DCA0;
+}
+
